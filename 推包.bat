@@ -19,9 +19,6 @@ git pull
 
 echo.
 
-echo 请按任意键继续执行 git push ...
-pause
-
 echo 执行 git push ...
 git push
 
