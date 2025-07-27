@@ -25,3 +25,5 @@ git push
 echo.
 
 echo 完成！
+
+pause
